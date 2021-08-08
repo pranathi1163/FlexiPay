@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1620796620 source:c:\users\prana\desktop\c++\finalc++\paytm\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	"user.h"
+	"wallet.h"
+
+1620797835 c:\users\prana\desktop\c++\finalc++\paytm\user.h
+	<iostream>
+	"wallet.h"
+
+1620797835 c:\users\prana\desktop\c++\finalc++\paytm\wallet.h
+	<iostream>
+
+1620796491 source:c:\users\prana\desktop\c++\finalc++\paytm\user.cpp
+	"user.h"
+	<fstream>
+	<sstream>
+	<ctime>
+	<iomanip>
+
+1620796491 source:c:\users\prana\desktop\c++\finalc++\paytm\wallet.cpp
+	"wallet.h"
+	<fstream>
+	<sstream>
+	<string.h>
+	<ctime>
+	<iomanip>
+
